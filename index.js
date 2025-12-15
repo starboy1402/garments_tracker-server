@@ -12,7 +12,7 @@ app.use(cors({
     origin: [
         'http://localhost:5173',
         'http://localhost:5174',
-        process.env.CLIENT_URL
+        'https://inspiring-frangipane-6626b1.netlify.app'
     ],
     credentials: true
 }));
