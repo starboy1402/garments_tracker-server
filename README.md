@@ -4,7 +4,7 @@
 Backend server for a comprehensive Garments Order & Production Tracker System. This system manages garment factory production workflows, orders, inventory, and user roles.
 
 ## Live URL
-[Backend Live URL - To be deployed on Vercel/Railway]
+[(https://inspiring-frangipane-6626b1.netlify.app/)]
 
 ## Features
 - **JWT Authentication** with HTTP-only cookies
